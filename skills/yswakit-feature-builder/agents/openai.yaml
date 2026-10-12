@@ -1,0 +1,4 @@
+interface:
+  display_name: "YSWAKit Feature Builder"
+  short_description: "Build reusable Python toolkit features"
+  default_prompt: "Use $yswakit-feature-builder to add this feature to my personal Python toolkit."
